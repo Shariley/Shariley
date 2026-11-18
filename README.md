@@ -1,12 +1,8 @@
 
 <div align="center">
-
-# Hallohalloo, I'm Shirley ^-^
-
-### Computer Science Student | Creative Tech Enthusiast
-
- ☆ Welcome to my new but growing corner of GitHub! ☆
-
+  <img src="./GitHubHeader.gif"
+       alt="Shirley's animated GitHub banner"
+       width="100%">
 </div>
 
 ---
