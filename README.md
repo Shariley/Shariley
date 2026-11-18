@@ -74,7 +74,7 @@ I'm especially passionate about **3D Art, Game Design, UI/UX, and Digital Media*
 A collection of university projects exploring
 different sides of computer science and digital media.
 
-### 🌙 Dreamcatcher
+### Dreamcatcher
 **Full-Stack Web Application**
 
 A sleep podcast platform featuring user management,
@@ -82,7 +82,7 @@ database integration and automated deployment.
 
 `Node.js` `Express` `MongoDB` `Docker`
 
-### 🤖 Pixelbot
+### Pixelbot
 **Embedded Systems & IoT**
 
 An ESP32-based desktop robot that monitors indoor
@@ -90,7 +90,7 @@ climate conditions and provides visual feedback to easily prevent mold.
 
 `ESP32` `Arduino/C++` `Sensors` `IoT`
 
-### 🌿 FoodGuard
+### FoodGuard
 **UI/UX Design & Prototyping**
 
 An interactive app concept designed to help people
@@ -98,7 +98,7 @@ with food allergies.
 
 `Figma` `UI/UX` `Accessibility`
 
-### ⭐ Starlight's Child
+### Starlight's Child
 **3D Animation & Digital Media**
 
 A short animated film exploring childhood loneliness,
